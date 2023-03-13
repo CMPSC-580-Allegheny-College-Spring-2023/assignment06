@@ -1,5 +1,5 @@
-## Assignment 6
-### Feasibility: How do-able is my project?
+# Assignment 6
+## Feasibility: How do-able is my project?
 
 #### Name
 Add Your Name Here
