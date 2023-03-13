@@ -80,7 +80,7 @@ We will begin presentations where we will discuss the following general consider
 
 * What resources do you need to complete the project?
 * How can you access these resources? 
-* What could (__likely__) stand in the way of the completion of the project and how would you handle this bottleneck in the project?
+* What could (__likely__) stand in the way of the completion of the project and how would you handle this bottleneck?
 
 ---
 
